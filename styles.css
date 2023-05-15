@@ -4,5 +4,10 @@
 table, th, td, caption {
     text-align: center;
     border: 1px solid black;
-    width: 250px;
+    width: 350px;
 }
+
+/*table{*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*}*/
